@@ -1,10 +1,10 @@
 # building-pipelines
-In this project, machine learning pipelines were constructed for four different algorithms: Naive Bayes, Decision Tree, Linear Regression, and Random Forest. Each pipeline encapsulates the entire machine learning workflow, including data preprocessing, model training, and evaluation. Here's a breakdown of the pipelines and their respective purposes:
+In this project, machine learning pipelines were constructed for four different algorithms: Naive Bayes, Decision Tree, Linear Regression, and Random Forest. Each pipeline encapsulates the entire machine-learning workflow, including data preprocessing, model training, and evaluation. Here's a breakdown of the pipelines and their respective purposes:
 
 ### Naive Bayes Pipeline:
 1. **Data Preprocessing:** Includes tasks such as text vectorization (converting text data into numerical format), handling missing values, and scaling features if necessary.
 2. **Naive Bayes Model Training:** Utilizes the preprocessed data to train a Naive Bayes classifier.
-3. **Evaluation:** Evaluates the Naive Bayes model's performance using metrics like accuracy, precision, recall, and F1-score.
+3. **Evaluation:** Evaluate the Naive Bayes model's performance using metrics like accuracy, precision, recall, and F1-score.
 
 ### Decision Tree Pipeline:
 1. **Data Preprocessing:** Similar to the Naive Bayes pipeline, this step prepares the data for training.
